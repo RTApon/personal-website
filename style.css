@@ -1,0 +1,55 @@
+body|{
+    margin:0%;
+    font-family: 'Lobster', cursive;
+    }
+h1{font-size: 50px;}
+
+.name-highlight{color: tomato;}
+
+section{height: 600px;
+padding-bottom: 100px;}
+
+.half-width{width: 40%;
+float:left;
+margin-left: 5%;
+padding: 2%;}
+
+.half-width img{width: 100%;}
+
+.button{background-color: tomato;
+border-radius: 10%;
+text-decoration: none;
+padding: 10px 20px;
+color: whitesmoke;
+background-image: linear-gradient(50deg, tomato,yellow);
+}
+.top-banner{background-image:url("header-bg.png");
+background-repeat: no-repeat;}
+
+.middle-banner{background-image: url("biography-bg.png");}
+
+.small-width{width: 25%;
+float: left;
+margin:%;
+padding: 4%;}
+
+.small-width img{width: 100%;}
+
+.last-banner{background-image: url("latest-work-bg.png");}
+
+.center{text-align: center;}
+
+h5{color: grey;}
+
+.color{text-align: center;
+background-color: indianred;
+border-radius: 10px;
+padding: 5%;
+margin: 10%;
+}
+
+footer{
+    text-align: center;
+color: gray;}
+
+.footer{background-image: url("footer-bg.png");}
